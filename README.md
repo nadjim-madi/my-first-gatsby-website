@@ -9,7 +9,7 @@
 
 ##  About this project 
  
-  -> I created this project to start working with Gatsby and React to know where to place components, pages and how to actually getting started with Gatsby and React, I used a simple blog website that I had on my PC, so if you want to check it don't actually judge or take in consideration the functionalities or the styling XD.
+   I created this project to start working with Gatsby and React to know where to place components, pages and how to actually getting started with Gatsby and React, I used a simple blog website that I had on my PC, so if you want to check it don't actually judge or take in consideration the functionalities or the styling XD.
 
 PS: If you are working with the data/db.json file to fetch data using the "Localhost:5000/blogs" don't forget to start the json server and to do that use the following command:
 
