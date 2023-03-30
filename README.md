@@ -1,8 +1,11 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" /><h1 display="inline-block" width="auto" text-decoration="none">X</h1><img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="60" />
+<p align="center" style="display:flex; align-items:center; justify-content:center">
+  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter" style="display:flex; align-items:center;">
+    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" style="margin-right:10px;" />
+    <h1 style="margin:0;">X</h1>
+    <img alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/539px-React-icon.svg.png" width="60" style="margin-left:10px;" />
   </a>
 </p>
+
 <h1 align="center">
   Gatsby Minimal Starter
 </h1>
